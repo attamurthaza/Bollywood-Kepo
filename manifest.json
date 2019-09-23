@@ -1,0 +1,38 @@
+{
+  "name": "Bollywood Kepo",
+  "short_name": "bollywoodkepo",
+  "start_url": "https://www.bollywoodkepo.xyz",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Informasi Dunia Bollywood. Berita Selebriti, Review Dan Sinopsis Film.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-PECYogzWnfs/XYgp4AMw6FI/AAAAAAAAAcc/1PGKpZaNy6YUN6jSp9phbQ6-f_qXzJVYQCLcBGAsYHQ/s48/Bollywood%2BKepo.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PECYogzWnfs/XYgp4AMw6FI/AAAAAAAAAcc/1PGKpZaNy6YUN6jSp9phbQ6-f_qXzJVYQCLcBGAsYHQ/s72/Bollywood%2BKepo.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PECYogzWnfs/XYgp4AMw6FI/AAAAAAAAAcc/1PGKpZaNy6YUN6jSp9phbQ6-f_qXzJVYQCLcBGAsYHQ/s96/Bollywood%2BKepo.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PECYogzWnfs/XYgp4AMw6FI/AAAAAAAAAcc/1PGKpZaNy6YUN6jSp9phbQ6-f_qXzJVYQCLcBGAsYHQ/s144/Bollywood%2BKepo.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PECYogzWnfs/XYgp4AMw6FI/AAAAAAAAAcc/1PGKpZaNy6YUN6jSp9phbQ6-f_qXzJVYQCLcBGAsYHQ/s168/Bollywood%2BKepo.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PECYogzWnfs/XYgp4AMw6FI/AAAAAAAAAcc/1PGKpZaNy6YUN6jSp9phbQ6-f_qXzJVYQCLcBGAsYHQ/s192/Bollywood%2BKepo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PECYogzWnfs/XYgp4AMw6FI/AAAAAAAAAcc/1PGKpZaNy6YUN6jSp9phbQ6-f_qXzJVYQCLcBGAsYHQ/s512/Bollywood%2BKepo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+} 
